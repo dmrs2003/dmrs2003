@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ramindu sulakkana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramindu sulakkana" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/ramindu sulakkana](https://www.linkedin.com/in/ramindu-sulakkana-737978317?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZbzYv3a%2FSDOTdHgBAQCtCg%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramindu sulakkana" height="30" width="40" /></a>
 <a href="https://fb.com/ramindu sulakkana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramindu sulakkana" height="30" width="40" /></a>
 <a href="https://instagram.com/ramindu_official__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramindu_official__" height="30" width="40" /></a>
 </p>
