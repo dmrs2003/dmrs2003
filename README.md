@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramindu Sulakkana</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Data Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmrs2003&label=Profile%20views&color=0e75b6&style=flat" alt="dmrs2003" /> </p>
 
